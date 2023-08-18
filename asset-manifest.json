@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ecomone/static/css/main.4b5978a7.css",
+    "main.js": "/ecomone/static/js/main.3378ba8e.js",
+    "static/js/787.214c7261.chunk.js": "/ecomone/static/js/787.214c7261.chunk.js",
+    "static/media/banner.jpg": "/ecomone/static/media/banner.ebb85ee75fa7be06ab7d.jpg",
+    "static/media/aval.jpg": "/ecomone/static/media/aval.5f74f3ac1a7acfecae17.jpg",
+    "static/media/ghee.jpg": "/ecomone/static/media/ghee.c73abdfe95c04bfb08c4.jpg",
+    "static/media/banner-2.jpg": "/ecomone/static/media/banner-2.a26bb4ac959f963c4c4a.jpg",
+    "static/media/banner-1.jpg": "/ecomone/static/media/banner-1.ba1a4208956210fe81cf.jpg",
+    "static/media/banner-3.jpg": "/ecomone/static/media/banner-3.1147cd7e53988e9bb172.jpg",
+    "static/media/councat.jpg": "/ecomone/static/media/councat.b9fe5d0b0ea9c67e54f2.jpg",
+    "static/media/coffeecat.jpg": "/ecomone/static/media/coffeecat.680cd23148d47495c569.jpg",
+    "static/media/logo.png": "/ecomone/static/media/logo.17d6b77f1e8f3b185f6d.png",
+    "index.html": "/ecomone/index.html",
+    "main.4b5978a7.css.map": "/ecomone/static/css/main.4b5978a7.css.map",
+    "main.3378ba8e.js.map": "/ecomone/static/js/main.3378ba8e.js.map",
+    "787.214c7261.chunk.js.map": "/ecomone/static/js/787.214c7261.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b5978a7.css",
+    "static/js/main.3378ba8e.js"
+  ]
+}
